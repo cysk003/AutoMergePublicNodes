@@ -1,6 +1,1 @@
-proxies:
-- name: 🇰🇷[www.v2nodes.com] trojan-KR-...
-  password: 5t6i121em5lkmsmk
-  port: 48851
-  server: 158.247.255.150
-  type: trojan
+proxies: []
